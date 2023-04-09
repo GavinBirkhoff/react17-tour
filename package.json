@@ -1,0 +1,32 @@
+{
+  "name": "react17-tour",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.x",
+    "react-dom": "^17.x"
+  },
+  "devDependencies": {
+    "@types/react": "^17.x",
+    "@types/react-dom": "^17.x",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.2.0"
+  },
+  "description": "在react的每个角落参观，探索react用法实例(官网没有给出的或着没有想到的)。",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinBirkhoff/react17-tour.git"
+  },
+  "author": "Gavin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GavinBirkhoff/react17-tour/issues"
+  },
+  "homepage": "https://github.com/GavinBirkhoff/react17-tour#readme"
+}
