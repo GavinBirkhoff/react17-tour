@@ -5,6 +5,7 @@ import './App.css'
 
 import FuncCom from "./fixtures/state/FuncCom"
 import ClassCom from "./fixtures/state/ClassCom"
+import CallBackCom from "./fixtures/hooks/CallBackCom"
 
 function App() {
   const [count, setCount] = useState(0)
@@ -13,6 +14,7 @@ function App() {
     <div className="App">
       <FuncCom></FuncCom>
       <ClassCom></ClassCom>
+      <CallBackCom/>
     </div>
   )
 }
